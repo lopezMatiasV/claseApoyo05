@@ -1,1 +1,5 @@
-let nombre;
+let nombre = {
+    saludar : () => {
+        return "hola"
+    }
+}
